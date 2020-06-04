@@ -1,0 +1,9 @@
+name = "Chukot"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.ckt"
+
+[windows]
+system_product_code = "6F02B6CB-9AAA-4881-AF11-05990F25CDC2"
+msoffice_product_code = "D292853C-A280-42E9-97BF-7E571EB7D877"
