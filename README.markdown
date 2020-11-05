@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/cktdoc/index.html>
+-   <https://giellalt.uit.no/lang/ckt/ChukchiDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
