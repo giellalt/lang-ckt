@@ -1,7 +1,7 @@
 # Chukot documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-ckt)](https://raw.githubusercontent.com/giellalt/lang-ckt/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-ckt)](https://raw.githubusercontent.com/giellalt/lang-ckt/develop/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ckt)](https://github.com/giellalt/lang-ckt/issues)
 [![Build status](https://github.com/giellalt/lang-ckt/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ckt/actions)
 
