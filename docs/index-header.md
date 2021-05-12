@@ -1,15 +1,15 @@
-# Chukot documentation
+# Chukot (Chukchi) documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-ckt)](https://raw.githubusercontent.com/giellalt/lang-ckt/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ckt)](https://github.com/giellalt/lang-ckt/issues)
 [![Build status](https://github.com/giellalt/lang-ckt/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ckt/actions)
 
-This page documents the work on the **Chukot language model**. 
+This page documents the work on the [Chukot language model](https://github.com/giellalt/lang-ckt). 
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
 
 # In-source documentation
 
