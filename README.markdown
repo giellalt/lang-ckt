@@ -3,13 +3,13 @@ The Chukot (Chukchi) morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ckt)](https://github.com/giellalt/lang-ckt/issues)
 [![Build Status](https://github.com/giellalt/lang-ckt/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ckt/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-ckt)](https://raw.githubusercontent.com/giellalt/lang-ckt/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-ckt)](https://raw.githubusercontent.com/giellalt/lang-ckt/main/LICENSE)
 
 This repository contains finite state source files for the Chukot language,
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under __LICENCE__
 licence, also detailed in the
-[LICENCE](https://github.com/giellalt/lang-ckt/blob/develop/LICENCE). The
+[LICENSE](https://github.com/giellalt/lang-ckt/blob/main/LICENSE). The
 authors named in the AUTHORS file are available to grant other licencing
 choices.
 
@@ -77,7 +77,7 @@ svn checkout https://github.com/giellalt/lang-ckt.git/trunk lang-ckt
 Building and installation
 -------------------------
 
-[INSTALL](https://github.com/giellalt/lang-ckt/blob/develop/INSTALL)
+[INSTALL](https://github.com/giellalt/lang-ckt/blob/main/INSTALL)
 describes the GNU build system in detail, but for most users it is the usual:
 
 ```sh
