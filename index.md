@@ -7,6 +7,8 @@
 
 This page documents the work on the [Chukot language model](https://github.com/giellalt/lang-ckt). 
 
+The language model is just a dummy for now.
+
 # Project documentation
 
 * (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
