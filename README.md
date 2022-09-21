@@ -30,7 +30,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/ckt/ChukchiDocumentation.html>
+- [Language specific documentation](https://giellalt.github.io/lang-ckt/)
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
