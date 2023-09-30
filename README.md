@@ -1,6 +1,7 @@
 The Chukot (Chukchi) morphology and tools
 ==========================================
 
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ckt%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ckt)](https://github.com/giellalt/lang-ckt/issues)
 [![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ckt/main/badge.svg)](https://github.com/giellalt/lang-ckt/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-ckt)](https://github.com/giellalt/lang-ckt/blob/main/LICENSE)
